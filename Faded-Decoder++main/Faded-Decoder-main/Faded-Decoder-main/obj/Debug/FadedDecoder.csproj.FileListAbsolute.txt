@@ -1,0 +1,10 @@
+C:\Users\emreh\OneDrive\Masaüstü\Faded-Decoder-main\Faded-Decoder-main\bin\Debug\FadedDecoder.exe.config
+C:\Users\emreh\OneDrive\Masaüstü\Faded-Decoder-main\Faded-Decoder-main\bin\Debug\FadedDecoder.exe
+C:\Users\emreh\OneDrive\Masaüstü\Faded-Decoder-main\Faded-Decoder-main\bin\Debug\FadedDecoder.pdb
+C:\Users\emreh\OneDrive\Masaüstü\Faded-Decoder-main\Faded-Decoder-main\obj\Debug\FadedDecoder.csproj.AssemblyReference.cache
+C:\Users\emreh\OneDrive\Masaüstü\Faded-Decoder-main\Faded-Decoder-main\obj\Debug\FadedDecoder.MainWindowForm.resources
+C:\Users\emreh\OneDrive\Masaüstü\Faded-Decoder-main\Faded-Decoder-main\obj\Debug\FadedDecoder.Properties.Resources.resources
+C:\Users\emreh\OneDrive\Masaüstü\Faded-Decoder-main\Faded-Decoder-main\obj\Debug\FadedDecoder.csproj.GenerateResource.cache
+C:\Users\emreh\OneDrive\Masaüstü\Faded-Decoder-main\Faded-Decoder-main\obj\Debug\FadedDecoder.csproj.CoreCompileInputs.cache
+C:\Users\emreh\OneDrive\Masaüstü\Faded-Decoder-main\Faded-Decoder-main\obj\Debug\FadedDecoder.exe
+C:\Users\emreh\OneDrive\Masaüstü\Faded-Decoder-main\Faded-Decoder-main\obj\Debug\FadedDecoder.pdb
